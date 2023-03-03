@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danjrosales/backend.git"
+  },
+  "keywords": [
+    "backend",
+    "node.js",
+    "node",
+    "server"
+  ],
+  "author": "Daniel de Jesús Rosales Mendoza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danjrosales/backend/issues"
+  },
+  "homepage": "https://github.com/danjrosales/backend#readme"
+}
